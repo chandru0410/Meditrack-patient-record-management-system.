@@ -27,7 +27,7 @@ mediTrack/
 
 Clone the repository:
 
-git clone https://github.com/your-username/mediTrack.git
+git clone https://github.com/chandru0410-Jayachandran_k/mediTrack.git
 cd mediTrack
 
 
